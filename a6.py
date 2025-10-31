@@ -13,7 +13,7 @@ elif op == '*':
     res = a * b
     print('Result = {}'. format(res))
 elif op == '/':
-    res = a / b
+    res = a / hb
     print('Result = {}'. format(res))
 else:
     print ("Not a math operator")
