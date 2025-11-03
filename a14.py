@@ -6,4 +6,4 @@ for c in company:
     print(c, end=' ')
 print()
 for d in data:
-    print(d,end=' ')
+    print(d,end=' ')a
